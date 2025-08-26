@@ -680,7 +680,8 @@ html, body {
     margin-top: 10px;
     font-family: neuelit;
     position: relative;
-    width: 9vw;
+    width: 10vw;
+    text-align: center;
     padding: 10px 20px ;
     border: 1px solid #d2e3ff;
     border-radius: 50px;
