@@ -312,9 +312,8 @@ html, body {
     padding-left: 5vw;
     padding-right: 3vw;
     justify-content: center;
-    animation-name: animfaderight;
+    animation-name: animfadeleft;
     animation-timeline: view();
-    animation-duration: 1s;
     animation-range-start: cover;
     animation-range-end: 70vh;
 }
